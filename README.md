@@ -329,3 +329,4 @@ _此处为2019年开始代言的_
 网页制作:想打想流KimHeeChul翻译组<br />
 官方微博:想打想流KimHeeChul<br />
 [微博主页](https://weibo.com/u/6205417173?sudaref=www.baidu.com&display=0&retcode=6102)<br />
+[情报存取](https://github.com/xdxl-khc/xdxl-khc.github.io)<br />
